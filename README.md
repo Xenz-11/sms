@@ -1,4 +1,4 @@
-> [BAHAN]
+> [ BAHAN ]
 ```python
 pkg update && pkg upgrade -y
 pkg install python
