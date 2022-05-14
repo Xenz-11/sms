@@ -16,4 +16,4 @@ git pull
 python sms-v2.py
 ```
 
-(https://i.ibb.co/kHWcYxX/1649523173-picsay.png)
+<img src="https://i.ibb.co/kHWcYxX/1649523173-picsay.png" alt="1649523173-picsay" border="0"></a>
