@@ -17,9 +17,9 @@ cd sms
 git pull
 python sms.py
 ```
-<b> • [WhatsApp](https://wa.me/6283138613993)
+<b> • WhatsApp klik di [sini](https://wa.me/6283138613993)
 
-<b> • [facebook](https://www.facebook.com/inu.pembangkang.7)
+<b> • Facebook klik di [sini](https://www.facebook.com/inu.pembangkang.7)
 
-<b> • [Instagram](https://www.instagram.com/xenz_why)
+<b> • Instagram klik di [sini](https://www.instagram.com/xenz_why)
 ![SS](https://github.com/Xenz-11/sms/blob/main/SS/Screenshot_20220519-185250-picsay.jpg)
