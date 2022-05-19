@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/kHWcYxX/1649523173-picsay.png" alt="1649523173-picsay" border="0"></a>
 > [ BAHAN ]
 ```python
 pkg update && pkg upgrade -y
@@ -16,4 +17,4 @@ git pull
 python sms.py
 ```
 
-<img src="https://i.ibb.co/kHWcYxX/1649523173-picsay.png" alt="1649523173-picsay" border="0"></a>
+![SS](https://github.com/Xenz-11/sms/blob/main/SS/Screenshot_20220519-185250-picsay.jpg)
