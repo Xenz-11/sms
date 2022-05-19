@@ -10,8 +10,8 @@ pkg install git
 ```
 > [ RUN SCRIPT ]
 ```python
-git clone https://github.com/Xenz-11/spam-sms-v2
-cd spam-sms-v2
+git clone https://github.com/Xenz-11/sms
+cd sms
 git pull
 python sms.py
 ```
