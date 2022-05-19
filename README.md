@@ -1,3 +1,4 @@
+<b> JANGAN LUPA FOLLOW AMA KASIH BINTANG YA ANJ🗿
 <img src="https://i.ibb.co/kHWcYxX/1649523173-picsay.png" alt="1649523173-picsay" border="0"></a>
 > [ BAHAN ]
 ```python
