@@ -13,7 +13,7 @@ pkg install git
 git clone https://github.com/Xenz-11/spam-sms-v2
 cd spam-sms-v2
 git pull
-python sms-v2.py
+python sms.py
 ```
 
 <img src="https://i.ibb.co/kHWcYxX/1649523173-picsay.png" alt="1649523173-picsay" border="0"></a>
